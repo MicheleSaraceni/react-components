@@ -1,4 +1,4 @@
-function Header() {
+function Footer() {
     return (
         <footer>
             <p>
@@ -7,8 +7,5 @@ function Header() {
         </footer>
     )
 }
-
-
-
 
 export default Footer;

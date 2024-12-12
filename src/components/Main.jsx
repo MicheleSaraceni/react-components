@@ -2,7 +2,7 @@ function Main() {
     return (
         <main>
             <div className="card" style={{ width: "18rem" }}>
-                <img src=".../public/img/fantasy600x400.webp" className="card-img-top" alt="fantasy600x400" />
+                <img src="../public/img/fantasy600x400.webp" className="card-img-top" alt="fantasy600x400" />
                 <div className="card-body">
                     <h5 className="card-title">Avventurieri fantasy</h5>
                     <p className="card-text">
