@@ -1,3 +1,5 @@
+import Button from "./Button.jsx";
+
 function Main() {
     return (
         <main>
@@ -8,7 +10,7 @@ function Main() {
                     <p className="card-text">
                         Tipico gruppo di avventurieri fantasi in procinto di andare a sconfiggere un potente malvagio nel suo castello.
                     </p>
-                    <a href="#" className="btn btn-primary">Vai alla storia</a>
+                    <Button />
                 </div>
             </div>
         </main>
